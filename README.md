@@ -1,2 +1,4 @@
 # LearningGit
-I need to learn git
+Goal: learn to use git.
+
+This repository is used to learn git, and document the concepts, commands, error and process.
